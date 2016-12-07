@@ -32,3 +32,12 @@ p{
 a{
   color: #e4d51e;
 }
+h2{color: #f6a2a2;
+  font-family: Georgia, sans-serif;
+  font-size:34px;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 3px;
+  padding: 50px;
+  text-transform:uppercase;
+  }
