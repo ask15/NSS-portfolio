@@ -7,33 +7,35 @@ html, body, div, span{
 }
 
 body{
-  background-color: #white;
+  background-color: #C0C0C0;
   font-size:14px;
 }
+a{
+  color: #2F4F4F;
 h1{
-  color: #blue;
-  font-family: Georgia, sans-serif;
+  color: #2F4F4F;
+  font-family: copperplate;
   font-size:34px;
   font-weight: bold;
-  text-align: center;
+  text-align: left;
   letter-spacing: 3px;
   padding: 50px;
   text-transform:uppercase;
 }
 
 p{
-  text-align: center;
-  font-family: Times new roman, sans-serif;
+  text-align: right;
+  font-family: Times;
   font-size:22px;
   letter-spacing: 1px;
   font-style:italic;
 }
 
 a{
-  color: #e4d51e;
+  color: #2F4F4F;
 }
-h2{color: #yellow;
-  font-family: Georgia, sans-serif;
+h2{color: #2F4F4F;
+  font-family: copperplate;
   font-size:25px;
   font-weight: bold;
   text-align: center;
